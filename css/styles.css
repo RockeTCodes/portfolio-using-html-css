@@ -1,0 +1,173 @@
+body{
+  margin:0
+
+}
+
+.top-container{
+  background-color: #72FFFF;
+  position: relative;
+  padding-top:6.25rem;
+}
+
+h1{
+
+  display:inline-block;
+  margin-top:0;
+  position:absolute;
+  top:12.5rem;
+  left:40.625rem;
+  font-family: 'Sacramento', cursive;
+  font-size:4rem;
+  color:#2B7A0B;
+}
+
+h3{
+  display: inline-block;
+  margin-top:0;
+  position: absolute;
+  top:18.75rem;
+  left:45rem;
+  font-family: 'Montserrat', sans-serif;
+  color:#2B7A0B;
+
+}
+
+.img-suncloud{
+  position: absolute;
+  width:10rem;
+  height:10rem;
+  left:75rem;
+  top:3.125rem;
+
+}
+
+.img-cloud{
+  position:absolute;
+  width:28rem;
+  height:21rem;
+  left:10.75rem;
+  bottom:22rem;
+
+}
+
+.img-grassland{
+  width:100%;
+  margin-bottom:0;
+
+}
+
+.middle-container{
+  background-color: #72FFFF;
+  text-align:center;
+  position:relative;
+  padding-top:6.25rem;
+}
+
+
+.img-groot{
+border:solid;
+border-width:0.625rem;
+border-color: #2B7A0B;
+border-radius: 12.5rem;
+
+}
+h2{
+  font-family: 'Montserrat', sans-serif;
+  font-size:3rem;
+  color:#2B7A0B;
+  margin-top:0;
+
+
+}
+hr{
+  border-width:0.3125rem;
+  border-style:none;
+  border-top-style:dotted;
+  width:10%;
+  border-color:grey;
+  margin-bottom:0;
+  padding-top:10px;
+
+
+}
+p{
+  font-family: 'sans-serif';
+  color:#2B7A0B;
+
+}
+
+
+.bottom-container{
+  background-color: #72FFFF;
+  text-align: center;
+  position:relative;
+  padding-top:6.25rem;
+
+
+}
+ h4{
+   font-family: 'Montserrat', sans-serif;
+   font-size:5rem;
+   color:#2B7A0B;
+   margin-top:0;
+
+ }
+
+
+h5{
+  font-family: 'Montserrat', sans-serif;
+  font-size:2rem;
+  color:#2B7A0B;
+  margin-top:0;
+  display: inline-block;
+
+}
+
+.op{
+font-size:4rem;
+color:#2B7A0B;
+margin-top:0;
+padding-top: 0;
+display: inline-block;
+}
+
+.giphy-embed{
+
+display:inline-block;
+position:absolute;
+left:300px;
+bottom:300px;
+}
+
+.giphy-embed{
+
+display:inline-block;
+position:absolute;
+left:300px;
+bottom:300px;
+}
+.gip-embed{
+  display:inline-block;
+  position:absolute;
+  right:250px;
+  bottom:50px;
+}
+
+.last-container{
+  background-color: #72FFFF;
+  text-align: center;
+  position:relative;
+  padding-top:6.25rem;
+
+}
+
+.button{
+  color: #D61C4E;
+  border:none;
+  border-radius:0.325rem;
+  margin-bottom:1rem;
+  background-color: #293462;
+  padding: 1rem;
+  cursor: pointer;
+
+}
